@@ -7,7 +7,7 @@
 
 Matriks A
 [ 2 4 ]
-###[ 6 8 ]
+[ 6 8 ]
 
 
 Matriks B 
@@ -16,3 +16,5 @@ Matriks B
 
 
 ### Output : 
+### Penjumlahan Matriks
+Penjumlahan_matriks_2x2()
