@@ -17,5 +17,6 @@ Matriks B
 
 ### Output : 
 ### Penjumlahan Matriks
-Penjumlahan_matriks_2x2.(test/screnshot/matriks penjumlahan.PNG)
+Penjumlahan_matriks_2x2.https://github.com/hendrik22222/TUBES-ALGEO-22073/blob/main/test/screnshot/matriks%20penjumlahan.PNG
+
 
